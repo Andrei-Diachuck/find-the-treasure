@@ -1,0 +1,62 @@
+html{
+    background: url("https://images2.minutemediacdn.com/image/upload/c_crop,h_1248,w_2220,x_0,y_0/v1554924164/shape/mentalfloss/540277.treasure.carousel2x.jpg?itok=VzkJ-U2x") fixed no-repeat center;
+}
+
+.text h1{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: 50px;
+}
+
+.text p{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.text{
+    background-color: rgba(110, 110, 110, 0.551);
+    border-radius: 20px;
+}
+
+.button{
+    font-size: 25px;
+    font-family: cursive;
+    display: block;
+    width: 140px;
+    height: 50px;
+    background: no-repeat black;
+    border: 2px solid white;
+    border-radius: 35px;
+    text-decoration: none;
+    color: white;
+    margin-left: 560px;
+    margin-top: 200px;
+}
+.button:hover{
+    font-size: 25px;
+    font-family: cursive;
+    display: block;
+    width: 140px;
+    height: 50px;
+    background: no-repeat rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 35px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.button:active{
+    background: no-repeat gray;
+    color: white;
+}
+
+p{
+    margin-left: 25px;
+    margin-top: 5px;
+}
